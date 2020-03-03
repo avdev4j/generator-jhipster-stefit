@@ -7,7 +7,7 @@ const clientFiles = {
     image: [
         {
             path: MAIN_SRC_DIR,
-            templates: [{ file: 'content/images/logo-stefit.jpg', method: 'copy' }]
+            templates: [{ file: 'content/images/logo-stefit.jpg', method: 'copy' }, { file: 'content/images/logo-stefit.png', method: 'copy' }]
         }
     ],
     reactMain: [
